@@ -1,7 +1,4 @@
-import lms_master_data as md
-
 class lms():
-    
 
     def __init__(self,p_loan_rules_tuple,p_cust_name,p_cust_cs,p_cust_loan_amt):
             self.p_loan_rules_tuple = p_loan_rules_tuple
